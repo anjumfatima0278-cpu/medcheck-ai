@@ -22,3 +22,6 @@ https://medcheckbuddy-lovable-app.lovable.app
 ## 👩‍⚕️ Author
 Anjum Fatima  
 Pharm-D Student | Exploring AI in Healthcare
+## 🚀 Project Preview
+
+![MedCheck AI](ChatGPT Image May 29, 2026, 10_31_47 PM.png)
